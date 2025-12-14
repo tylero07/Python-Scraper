@@ -1,13 +1,7 @@
-# PA7: Python Programming (100 pts)
+# Class Project - Python Programming
 
-## Learner Objectives
-At the conclusion of this programming assignment, participants should be able to:
-* Write Python scripts 
-* Use Python constructs
-* Scrape the static website that does not require authentication using **request** and **BeautifulSoup** libraries
+Credit to Proffessor Miller of North Idaho College for this assignment outline and readme
 
-## Prerequisites
-* Understanding of the lessons taught on Python Programming
 * Read [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/ )
 
 
@@ -66,13 +60,3 @@ Price has not changed since you last checked on 2024-09-11 12:58:41
 ```
 ### Context of ./finance directory before program run
 <img src="img/afterRun.png" width="700px" />
-
-> **Note:** Each file contains the ONLY stock price. The last check time is retrieved from the file name, not from some other storage.
-> **Note:** The format of your program output must match mine
-
-## Submitting Assignments
-1. Test your code in the Codespace.
-2. Ensure that you `push` your local copy of this PA's repo to GitHub. Verify that the code in GitHub is the same code you have on your local computer.
-3. It is VERY IMPORTANT that besides pushing the code to GitHub you still submit the GitHub URL of this programming assignment in Canvas. This allows the instructor to be notified of your final submission and that you are ready for grading.
-
-> **_NOTE: By submitting your code to be graded, you are stating that your submission does not violate the Academic Integrity Policy outlined in the syllabus._**
