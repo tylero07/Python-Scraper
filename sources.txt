@@ -1,0 +1,23 @@
+This is a list of some of the sources for the stock.py project.
+    guide for using beautiful soup to search through html
+    https://www.crummy.com/software/BeautifulSoup/bs4/doc/?utm.com
+
+    scraping with python 101 guide
+    https://realpython.com/beautiful-soup-web-scraper-python/?utm.com
+
+    glob guide for using unix style commands to search files
+    https://docs.python.org/3/library/glob.html
+
+    for building timestamp for filenames
+    https://docs.python.org/3/library/datetime.html
+
+    working with opening/writing/reading files
+    https://docs.python.org/3/library/functions.html
+
+    stripping, replacing, splitting strings, for loops, map/key/dictionary etc.
+    https://docs.python.org/3/library/stdtypes.html
+
+    examples/tutorials
+    https://realpython.com/python-dicts/
+    
+All other sources were from various forums and how to examples
