@@ -1,6 +1,6 @@
 # Class Project - Python Programming
 
-Credit to Proffessor Miller of North Idaho College for this assignment outline and readme
+Credit to Professor Miller of North Idaho College for this assignment outline and readme
 
 * Read [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/ )
 
